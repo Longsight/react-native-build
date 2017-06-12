@@ -1,0 +1,14 @@
+{
+  "repo": "user/example-repo",
+  "prefix": "example-app",
+  "github": {
+    "credentials": null
+  },
+  "fastlane": {
+    "credentials": null
+  },
+  "srcDir": "src",
+  "versionCounter": "https://example.com/counter/",
+  "env": {
+  }
+}
